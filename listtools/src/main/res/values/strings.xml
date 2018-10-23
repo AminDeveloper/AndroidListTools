@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListTools</string>
+    <string name="loading">درحال دریافت اطلاعات</string>
+</resources>
